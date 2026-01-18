@@ -1,52 +1,7 @@
 # AI Engineer Day-Wise Learning Plan
 ## Complete Curriculum: Beginner to Advanced
 
----
-
-
-
-
-
-#### Boolean (bool)
-**What it is:** Represents True or False values.
-
-**Why it is used:** For logical operations, conditions, and flags.
-
-**Example:**
-```python
-is_active = True
-is_complete = False
-
-print(type(is_active))  # <class 'bool'>
-print(is_active and is_complete)  # False
-print(is_active or is_complete)   # True
-print(not is_active)              # False
-```
-
----
-
-#### Type Conversion
-**What it is:** Converting data from one type to another.
-
-**Example:**
-```python
-# String to Integer
-num_str = "42"
-num_int = int(num_str)
-print(num_int + 8)  # 50
-
-# Integer to Float
-x = 10
-x_float = float(x)
-print(x_float)  # 10.0
-
-# Number to String
-age = 25
-age_str = str(age)
-print("I am " + age_str + " years old")
-```
-
----
+--
 
 ## Day 2: Python Collections (Lists, Tuples, Dictionaries, Sets)
 
