@@ -1,6 +1,4 @@
-Transitioning from full-stack development to AI engineering is a powerful move in 2026. Because you already know Python, FastAPI, and React, you are actually ahead of many beginners. You don't need to start from scratch; you just need to "stack" AI capabilities onto your existing engineering skills.
-
-Here is a structured 6-month roadmap specifically designed for a developer with your background.
+Transitioning from full-stack development to AI engineering is a powerful move in 2026.
 
 Month 1
 
