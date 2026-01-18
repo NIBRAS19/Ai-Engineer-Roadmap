@@ -5,63 +5,7 @@
 
 
 
-### Data Types
 
-#### Integer (int)
-**What it is:** Whole numbers without decimal points.
-
-**Why it is used:** For counting, indexing, and mathematical operations requiring whole numbers.
-
-**Example:**
-```python
-count = 10
-negative_num = -5
-big_number = 1000000
-
-print(type(count))  # <class 'int'>
-print(count + negative_num)  # 5
-```
-
----
-
-#### Float
-**What it is:** Numbers with decimal points (floating-point numbers).
-
-**Why it is used:** For precise calculations involving decimals, like percentages, weights, or measurements.
-
-**Example:**
-```python
-pi = 3.14159
-temperature = -40.5
-accuracy = 0.95
-
-print(type(pi))  # <class 'float'>
-print(accuracy * 100)  # 95.0
-```
-
----
-
-#### String (str)
-**What it is:** A sequence of characters enclosed in quotes.
-
-**Why it is used:** For storing and manipulating text data.
-
-**Example:**
-```python
-greeting = "Hello, AI World!"
-single_quotes = 'Also valid'
-multiline = """This is a
-multiline string"""
-
-# String operations
-print(greeting.upper())  # HELLO, AI WORLD!
-print(greeting.lower())  # hello, ai world!
-print(len(greeting))     # 16
-print(greeting[0])       # H (first character)
-print(greeting[-1])      # ! (last character)
-```
-
----
 
 #### Boolean (bool)
 **What it is:** Represents True or False values.
