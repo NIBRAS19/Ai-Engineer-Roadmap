@@ -3,61 +3,6 @@
 
 
 
-### if Statement
-**What it is:** Executes code block when a condition is True.
-
-**Syntax:**
-```python
-if condition:
-    # code to execute
-```
-
-**Example:**
-```python
-age = 18
-
-if age >= 18:
-    print("You are an adult")
-```
-
-**Output:** `You are an adult`
-
----
-
-### if-else Statement
-**What it is:** Executes one block if condition is True, another if False.
-
-**Example:**
-```python
-temperature = 25
-
-if temperature > 30:
-    print("It's hot!")
-else:
-    print("It's pleasant")
-```
-
-**Output:** `It's pleasant`
-
----
-
-### if-elif-else Statement
-**What it is:** Checks multiple conditions in sequence.
-
-**Example:**
-```python
-score = 85
-
-if score >= 90:
-    grade = "A"
-elif score >= 80:
-    grade = "B"
-elif score >= 70:
-    grade = "C"
-elif score >= 60:
-    grade = "D"
-else:
-    grade = "F"
 
 print(f"Your grade is: {grade}")
 ```
