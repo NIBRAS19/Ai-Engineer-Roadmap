@@ -75,6 +75,5 @@ A comprehensive guide to becoming an AI Engineer, based on our 12-stage curricul
 - **Strategy:** Technical Interview Prep, Portfolio Building
 - **Edge AI:** Model Compression, Quantization, Pruning
 
----
-*Roadmap generated based on local curriculum structure.*
+
 
