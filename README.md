@@ -3,46 +3,7 @@
 
 ---
 
-# Week 1: Python Fundamentals for AI
 
----
-
-## Day 1: Python Variables & Data Types
-
-### Variables
-**What it is:** Variables are containers that store data values in memory. They act as labels pointing to data.
-
-**Why it is used:** To store, retrieve, and manipulate data throughout your program.
-
-**Syntax:**
-```python
-variable_name = value
-```
-
-**Example Code:**
-```python
-# Creating variables
-name = "AI Engineer"
-age = 25
-salary = 75000.50
-is_employed = True
-
-# Printing variables
-print(name)
-print(age)
-print(salary)
-print(is_employed)
-```
-
-**Output:**
-```
-AI Engineer
-25
-75000.5
-True
-```
-
----
 
 ### Data Types
 
