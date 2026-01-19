@@ -109,4 +109,4 @@ You have completed the **140-Day AI Engineer Learning Plan**!
 
 ---
 
-**Happy Learning! **
+**Happy Learning!**
