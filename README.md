@@ -1,7 +1,7 @@
 # AI Engineer Day-Wise Learning Plan
 ## Complete Curriculum: Beginner to Advanced
 
-# 🚀 AI Engineer Roadmap
+# AI Engineer Roadmap
 
 A comprehensive guide to becoming an AI Engineer, based on our 12-stage curriculum.
 
@@ -109,4 +109,4 @@ You have completed the **140-Day AI Engineer Learning Plan**!
 
 ---
 
-**Happy Learning! 🚀**
+**Happy Learning! **
